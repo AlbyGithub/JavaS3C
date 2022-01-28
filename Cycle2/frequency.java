@@ -1,5 +1,3 @@
-es (21 sloc)  606 Bytes
-   
 import java.util.*;
 class frequency
 {
