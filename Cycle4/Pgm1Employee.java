@@ -78,7 +78,7 @@ class Manager extends Employee
    }  
 } 
 
-class employinherit
+class Pgm1Employee
 {
   public static void main(String[] args) 
   {
