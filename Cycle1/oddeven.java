@@ -1,15 +1,18 @@
-import java.util.*;
-class Sum 
+import java.util.Scanner;
+class oddeven
 {
-    public static void main(String args[])
-    {
-     Scanner obj=new Scanner(System.in);
-     int a,b,sum;
-     System.out.println("Enter first number");
-     a=obj.nextInt();
-     System.out.println("Enter second number");
-     b=obj.nextInt();
-     sum=a+b;
-     System.out.println("Sum = "+sum);
-    }
+	public static void main(String[] args)
+	{
+		int num;
+		Scanner sc = new Scanner(System.in);
+		num = sc.nextInt();
+		if(num%2==0)
+  			{
+				System.out.println(num+ " is an even number.");
+			}
+		else
+			{
+				System.out.println(num+ " is an odd number.");
+			}
+	}
 }
