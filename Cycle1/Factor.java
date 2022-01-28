@@ -1,5 +1,5 @@
 import java.util.*;
-class factor
+class Factor
 {
     public static void main(String args[])
     {
