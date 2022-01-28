@@ -27,7 +27,7 @@ class Hexagon extends Shape
     }
 }
 
-class Shapesides
+class Pgm2Shapesides
 {
     public static void main(String[] args)
     {
