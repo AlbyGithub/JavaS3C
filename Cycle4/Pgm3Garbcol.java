@@ -1,5 +1,5 @@
 import java.util.*;
-public class experiment3
+public class Pgm3Garbcol
 {
 	public static void main(String[] args)
 	{
