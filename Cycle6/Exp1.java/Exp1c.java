@@ -1,5 +1,5 @@
 import java.io.*;
-class experiment1c
+class Exp1c
 {
 	public static void main(String[] args) throws Exception
 	{
