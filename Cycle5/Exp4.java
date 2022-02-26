@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class experiment4
+class Exp4
 {
     public static void main(String[] args) throws Exception
     {
