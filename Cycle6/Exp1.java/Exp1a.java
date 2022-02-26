@@ -1,4 +1,4 @@
-class experiment1a
+class Exp1a
 {
 	public static void main(String[] args)
 	{
