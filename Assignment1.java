@@ -1,5 +1,5 @@
 iduimport java.util.*;
-class student
+class Student
 {
 	String name;
 	int Rollno,age;
@@ -9,7 +9,7 @@ class student
 	public static void main(String[] args)
 	{
 		int n = 3;
-		student s[] = new student[n];
+		Student s[] = new Student[n];
 		int i;
 		for(i=0; i<n; i++)
 		{
