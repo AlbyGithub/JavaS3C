@@ -1,4 +1,4 @@
-iduimport java.util.*;
+import java.util.*;
 class Student
 {
 	String name;
